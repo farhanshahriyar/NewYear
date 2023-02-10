@@ -10,7 +10,7 @@
 .btn {
     background: #FD6E0A;
     display: inline-block;
-    padding: 10px 30px; 
+    padding: 10px 30px;
     color: #fff;
     text-decoration: none;
     border-radius: 4px;
@@ -36,7 +36,7 @@ a {
     text-align: right;
 }
 
-.banner{
+.banner {
     width: 45%;
     padding-top: 216px;
     margin-right: 100px;
@@ -44,7 +44,7 @@ a {
     padding-bottom: 166px;
 }
 
-.banner-text h2{
+.banner-text h2 {
     margin: 0;
     color: #151414;
     font-size: 50px;
@@ -63,20 +63,20 @@ a {
 /* intro section css */
 .introduction {
     text-align: center;
-  }
-  
-  .mid-section {
+}
+
+.mid-section {
     display: flex;
     justify-content: center;
     align-items: center;
-  }
-  
-  .col-half {
+}
+
+.col-half {
     width: 50%;
     padding: 0 1rem;
-  }
-  
-  .intro-img {
+}
+
+.intro-img {
     text-align: center;
     margin-top: 2rem;
     margin-bottom: 2rem;
@@ -85,45 +85,46 @@ a {
 
 .intro-img img {
     width: 100%;
-  }
-  
-  .intro-text {
-    text-align: left;
-  }
+}
 
-  .intro-text h2 {
+.intro-text {
+    text-align: left;
+}
+
+.intro-text h2 {
     color: #151414;
     font-size: 50px;
     line-height: 1.2;
-  }
-  
-  .int-text {
+}
+
+.int-text {
     color: #444343;
     padding-top: 40px;
     padding-bottom: 24px;
     font-size: 16px;
-  }
-  .heading-subs {
+}
+
+.heading-subs {
     padding-top: 24px;
     padding-bottom: 16px;
     font-size: 16px;
     color: #666;
     margin-bottom: 2rem;
-  }
+}
 
-  ul {
+ul {
     list-style: none;
-  }
-  
-  li {
+}
+
+li {
     display: flex;
     align-items: center;
     padding: 8px;
-  }
-  
-  i.fa-check {
+}
+
+i.fa-check {
     color: green;
     margin-right: 10px;
-  }
-  
-  
+}
+
+/* plan css */
